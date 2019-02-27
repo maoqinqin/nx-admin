@@ -1,7 +1,7 @@
 export default {
-  title: 'nx-admin',
-  logo: 'N',
-  author: 'BY nxmin',
+  title: '环境监控云平台',
+  // logo: 'N',
+  // author: 'BY nxmin',
   whiteList: ['/login', '/404', '/401', '/lock'],
   lockPage: '/lock',
   info: {
